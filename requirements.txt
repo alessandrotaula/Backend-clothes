@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pillow
+numpy
+matplotlib
+scikit-learn
+torch
+transformers
